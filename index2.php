@@ -12,6 +12,6 @@ echo"C";
 else if($number>32 and $number<40)
 echo"D";
 else {
-	echo"F";
+	echo"FA";
 }
 ?>
